@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732501633460",
+    "project_id": "datlichkham-20ada",
+    "storage_bucket": "datlichkham-20ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732501633460:android:e3440a8ccf148f7a456ae1",
+        "android_client_info": {
+          "package_name": "com.example.datlichkham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732501633460-qr582git5u6ndgvia3fcjjph1trcov0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz62Qiin0e4wlwFtDlK_UXOnmatDFDygY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732501633460-qr582git5u6ndgvia3fcjjph1trcov0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
